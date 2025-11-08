@@ -164,7 +164,7 @@ Let’s build a shared working model, not just follow mine.
 
 ## 🏠 Outside of Work
 
-- **Family:** Two kids 4 & 6 yo — at times may need to hard stop before 5pm to pick them up from school
+- **Family:** 2 kids 👶 🧒 4 & 6 yo — at times may need to hard stop before 5pm to pick them up from school
 - **Background:** 🇵🇱 by origin, living in 🇪🇸 since 2023. Still learning cultural nuances — correct me if I misread something  
 - **Weekends:** Usually riding my road or gravel bike. Always up for a chat, no pressure to pretend interest  
 
