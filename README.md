@@ -8,7 +8,7 @@ _Last updated: November 2025_
 
 ---
 
-This is my attempt to make our collaboration easier — think of it as my **default settings**.  
+This is my attempt to make our collaboration easier - think of it as my **default settings**.  
 It’s not a rulebook; it’s a conversation starter.  
 If something doesn’t work for you, tell me. Let’s co-design how we work best.
 
@@ -16,7 +16,7 @@ If something doesn’t work for you, tell me. Let’s co-design how we work best
 
 ## 🧭 What Drives Me
 
-I optimize for three things — roughly in this order:
+I optimize for three things - roughly in this order:
 
 1. **Team health** → sustainable pace, psychological safety, and continuous growth  
 3. **Impact** → Both user outcomes (better experiences) and business outcomes (reliability, efficiency, growth enablers)
@@ -30,11 +30,11 @@ When these trade off (and they will), I’ll make the tension explicit.
 ## 💬 How I Communicate
 
 ### Slack
-- Async-first, but I don’t expect everyone to be  
-- Tag me directly if you need input — I won’t see everything  
+- I'm async-first but don't expect you to be
+- Tag me directly if you need input - I won’t see everything  
 - “👀” means *I’ve seen it; I’ll reply later*  
-- **I sometimes work odd hours** — due to family commitments or time-sensitive business needs — but **late-night messages ≠ expectation to respond**. Please disconnect outside your hours unless it’s a production incident.
-- I’ll share regular team updates with stakeholders — the more context you share, the fewer interruptions from me  
+- **I sometimes work odd hours** - due to family commitments or time-sensitive business needs - but **late-night messages ≠ expectation to respond**. Please disconnect outside your hours unless it’s a production incident.
+- I’ll share regular team updates with stakeholders - the more context you share, the fewer interruptions from me  
 
 ### 1:1s
 - Weekly, 30–45 minutes (but if anything urgent please don't wait let's talk asap)
@@ -44,12 +44,12 @@ When these trade off (and they will), I’ll make the tension explicit.
 
 ### Meetings
 - If I call one - expect context and goals shared upfront  
-- If I seem distracted, tell me — it means I failed to protect focus time  
+- If I seem distracted, call it out - it usually means I'm context-switching too much and need to fix my calendar
 
 ### Feedback
 - I use [**SBIE**](https://engagedly.com/blog/importance-of-sbi-when-giving-feedback-in-workplace/) → Situation → Behavior → Impact → Expectation  
 - Direct but kind, usually in 1:1s unless time-sensitive  
-- **What I am working on:** I sometimes soften feedback too much — please ask me to be clearer if needed  
+- **What I am working on:** I sometimes soften feedback too much - please ask me to be clearer if needed  
 
 ---
 
@@ -57,8 +57,8 @@ When these trade off (and they will), I’ll make the tension explicit.
 
 **The key question:** [_Can we reverse this?_](https://shit.management/one-way-and-two-way-door-decisions/)
 
-- **Two-way doors (reversible):** move fast, test, learn, iterate  
-- **One-way doors (hard to reverse):** slow down, gather input, think harder  
+- **Two-way doors** (reversible): move fast, test, learn, iterate  
+- **One-way doors** (hard to reverse): slow down, gather input, think harder  
 
 Examples:  
 - Two-way → UI tweaks, feature flags, internal tooling  
@@ -68,19 +68,19 @@ Examples:
 > If process slows us down unnecessarily, we fix the process.
 
 **Decision ownership**
-- Default: the person closest to the problem decides - most often **you** 
+- Default: The person closest to the problem. You have the context, you own the outcome, you decide.
 - I step in to *stress-test*, not to take over  
 - I’ll override only for safety, compliance, or misalignment with company strategy  
-- I ask “why” a lot — it’s curiosity, not criticism  
+- I ask “why” a lot - it’s curiosity, not criticism  
 
 ---
 
 ## 🤝 What I Need From You
 
 **Non-negotiables**
-- Communicate blockers early — Monday beats Friday  
 - Own outcomes, not just tickets  - “feature shipped“ matters less than “conversion improved“
-- Be kind — we can disagree strongly and still respect each other  
+- Communicate blockers early - Monday beats Friday  
+- Be kind - we can disagree strongly and still respect each other  
 
 **Preferences (not mandates)**
 - Write things down → helps me process  
@@ -95,7 +95,7 @@ If my defaults don’t work for you, tell me what does.
 
 - **Clarity:** If goals feel fuzzy, I've failed. Push me on this
 - **Advocacy:** I'll fight for your growth, compensation, and recognition 
-- **Transparency:** You’ll know the context — even when it’s uncomfortable  
+- **Transparency:** You’ll know the context - even when it’s uncomfortable  
 - **No surprises:** If something's off, you'll hear it before performance review time
 - **Air cover:** I’ll handle organizational noise so you can focus  
 
@@ -115,7 +115,7 @@ We’re succeeding when:
 
 ## 🪞 How to Give Me Feedback
 
-I genuinely want it — here’s what helps:
+I genuinely want it - here’s what helps:
 
 - **Specific > vague** → “Yesterday in stand-up…” beats “You don’t listen”  
 - **Timely > batched** → don’t wait for 1:1s  
@@ -123,8 +123,8 @@ I genuinely want it — here’s what helps:
 - **Impact-framed** → “When you do X, I feel Y” helps me adjust  
 
 Recent feedback:  
-> “You say ‘let me think about it’ a lot — it feels like indecision.”  
-They were right — I now explain *why* I need time before deciding.
+> “You say ‘let me think about it’ a lot - it feels like indecision.”  
+They were right - I now explain *why* I need time before deciding.
 
 ---
 
@@ -136,7 +136,7 @@ They were right — I now explain *why* I need time before deciding.
 - I jump to solutions before understanding (I'm anxious about delivery)
 
 **What helps**
-- Ask directly: “You seem tense — what’s going on?”  
+- Ask directly: “You seem tense - what’s going on?”  
 - Clarify: “Do you want me to listen or problem-solve?”  
 - Push back kindly: “That’s not the right priority right now.”
 
@@ -156,7 +156,7 @@ Please call me out if you see me drifting.
 
 ## 🧪 Let’s Iterate Together
 
-This README is **v1.1** — a living document.  
+This README is **v1.1** - a living document.  
 What’s missing? What sounds good on paper but not in reality?  
 Let’s build a shared working model, not just follow mine.
 
@@ -164,12 +164,12 @@ Let’s build a shared working model, not just follow mine.
 
 ## 🏠 Outside of Work
 
-- **Family:** 2 kids 👶 🧒 4 & 6 yo — at times may need to hard stop before 5pm to pick them up from school
-- **Background:** 🇵🇱 by origin, living in 🇪🇸 since 2023. Still learning cultural nuances — correct me if I misread something  
+- **Family:** 2 kids 👶 🧒 4 & 6 yo - at times may need to hard stop before 5pm to pick them up from school
+- **Background:** 🇵🇱 by origin, 🇪🇸 based since 2023. I sometimes miss UK cultural references or communicate less clearly in English - tell me directly if something doesn't land right 
 - **Weekends:** Usually riding my road or gravel bike. Always up for a chat, no pressure to pretend interest  
 
 Sharing this helps explain my rhythms and reminds us we’re humans first.
 
 ---
 
-> Let’s build a team that balances **craft and care** — something we’re proud of, not just for *what* we deliver, but *how* we do it.
+> Let’s build a team that balances **craft and care** - something we’re proud of, not just for *what* we deliver, but *how* we do it.
