@@ -14,6 +14,15 @@ If something doesn’t work for you, tell me. Let’s co-design how we work best
 
 ---
 
+## 👨‍🦰 Who am I?
+
+I've spent 20+ years in tech, working across telco, banking, and logistics. I've seen different scales - startups (Uruz Labs), scale-ups (Glovo), and large companies (Goldman Sachs) - which taught me that context matters more than playbooks.  
+My technical roots are in backend engineering (mostly JVM languages). 
+
+For the past 6 years, I've been in leadership roles, focused on building teams that deliver meaningful results while helping engineers grow in their careers.
+
+---
+
 ## 🧭 What Drives Me
 
 I optimize for three things - roughly in this order:
@@ -38,7 +47,8 @@ When these trade off (and they will), I’ll make the tension explicit.
 
 ### 1:1s
 - Weekly, 30–45 minutes (but if anything urgent please don't wait let's talk asap)
-- Your agenda > mine  
+- Your agenda > mine
+- We will have a shared document for notes and action items 
 - Focused on: how you’re feeling, what you’re learning, what’s blocking you  
 - Less on: status updates (I can read those)  
 
@@ -154,22 +164,14 @@ Please call me out if you see me drifting.
 
 ---
 
-## 🧪 Let’s Iterate Together
-
-This README is **v1.1** - a living document.  
-What’s missing? What sounds good on paper but not in reality?  
-Let’s build a shared working model, not just follow mine.
-
----
-
 ## 🏠 Outside of Work
 
 - **Family:** 2 kids 👶 🧒 4 & 6 yo - at times may need to hard stop before 5pm to pick them up from school
 - **Background:** 🇵🇱 by origin, 🇪🇸 based since 2023. I sometimes miss UK cultural references or communicate less clearly in English - tell me directly if something doesn't land right 
-- **Weekends:** Usually riding my road or gravel bike. Always up for a chat, no pressure to pretend interest  
+- **Weekends:** Usually riding my road 🚴‍♂️ or gravel 🚵‍♂️ bike. Always up for a chat, no pressure to pretend interest  
 
 Sharing this helps explain my rhythms and reminds us we’re humans first.
 
 ---
 
-> Let’s build a team that balances **craft and care** - something we’re proud of, not just for *what* we deliver, but *how* we do it.
+### Let’s build a team that balances <ins>craft</ins> and <ins>care</ins> - something we’re proud of, not just for *what* we deliver, but *how* we do it.
