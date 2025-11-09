@@ -19,7 +19,7 @@ If something doesn’t work for you, tell me. Let’s co-design how we work best
 I've spent 20+ years in tech, working across telco, banking, and logistics. I've seen different scales - startups (Uruz Labs), scale-ups (Glovo), and large companies (Goldman Sachs) - which taught me that context matters more than playbooks.  
 My technical roots are in backend engineering (mostly JVM languages). 
 
-For the past 6 years, I've been in leadership roles, focused on building teams that deliver meaningful results while helping engineers grow in their careers.
+For the past 6+ years, I've been in leadership roles, focused on building teams that deliver meaningful results while helping engineers grow in their careers.
 
 ---
 
