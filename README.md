@@ -27,9 +27,9 @@ For the past 6 years, I've been in leadership roles, focused on building teams t
 
 I optimize for three things - roughly in this order:
 
-1. **Team health** → sustainable pace, psychological safety, and continuous growth  
-3. **Impact** → Both user outcomes (better experiences) and business outcomes (reliability, efficiency, growth enablers)
-4. **Engineering excellence** → quality that compounds over time  
+1. **Team health** - sustainable pace, psychological safety, and continuous growth  
+2. **Impact** - both user outcomes and business outcomes (the metrics we actually track)
+3. **Engineering excellence** - quality that compounds over time  
 
 When these trade off (and they will), I’ll make the tension explicit.  
 
@@ -40,10 +40,10 @@ When these trade off (and they will), I’ll make the tension explicit.
 ## 💬 How I Communicate
 
 ### Slack
-- I'm async-first but don't expect you to be
+- I prefer async communication, but work however suits you best
 - Tag me directly if you need input - I won’t see everything  
-- "👀" means *I’ve seen it; I’ll reply later*  
-- I sometimes send messages outside business hours (family schedule or urgent issues), but there's zero expectation to respond until your next working day—unless it's a production incident
+- "👀" means I've seen it and will reply later
+- I sometimes send messages outside business hours (family schedule or urgent issues), but there's zero expectation to respond until your next working day-unless it's a production incident
 - I share regular updates with leadership and stakeholders - the more you keep me in the loop proactively, the less I need to chase you for context
 
 ### 1:1s
@@ -54,14 +54,14 @@ When these trade off (and they will), I’ll make the tension explicit.
 - **Less on:** status updates (I can read those)  
 
 ### Meetings
-- If I call one - expect context and goals shared upfront  
+- If I call one, expect context and goals shared upfront  
 - If I seem distracted, call it out - it usually means I'm context-switching too much and need to fix my calendar
 
 ### Feedback
-- I use [**SBIE**](https://engagedly.com/blog/importance-of-sbi-when-giving-feedback-in-workplace/) framework → Situation → Behavior → Impact → Expectation  
+- I use [**SBIE**](https://engagedly.com/blog/importance-of-sbi-when-giving-feedback-in-workplace/) framework - Situation → Behavior → Impact → Expectation  
 - Direct but kind, usually in 1:1s unless time-sensitive
   
-**What I am working on:** I sometimes soften feedback too much - please ask me to be clearer if needed  
+**What I'm working on:** I sometimes soften feedback too much — please ask me to be clearer if needed  
 
 ---
 
@@ -73,15 +73,15 @@ When these trade off (and they will), I’ll make the tension explicit.
 - **One-way doors** (hard to reverse): slow down, gather input, think harder  
 
 Examples:  
-- Two-way → UI tweaks, feature flags, internal tooling  
-- One-way → database schemas, public APIs, compliance or architectural foundations  
+- Two-way - UI tweaks, feature flags, internal tooling  
+- One-way - database schemas, public APIs, compliance or architectural foundations  
 
-> "Move fast" never means skipping quality — it means streamlining safety nets.  
+> "Move fast" never means skipping quality - it means streamlining safety nets.  
 > If process slows us down unnecessarily, we fix the process.
 
 **Decision ownership**
 - Default: The person closest to the problem. You have the context, you own the outcome, you decide.
-- I step in to *stress-test*, not to take over  
+- I step in to stress-test, not to take over  
 - I’ll override only for safety, compliance, or misalignment with company strategy  
 - I ask _"why"_ a lot - it’s curiosity, not criticism  
 
@@ -95,9 +95,9 @@ Examples:
 - Be kind - we can disagree strongly and still respect each other  
 
 **Preferences (not mandates)**
-- Write things down → helps me process  
-- Ask questions publicly → helps others learn  
-- Share work-in-progress → I love seeing process, but it’s optional  
+- Write things down - helps me process  
+- Ask questions publicly - helps others learn  
+- Share work-in-progress - I love seeing process, but it’s optional  
 
 If my defaults don’t work for you, tell me what does.
 
@@ -107,11 +107,11 @@ If my defaults don’t work for you, tell me what does.
 
 - **Clarity:** If goals feel fuzzy, I've failed. Push me on this
 - **Advocacy:** I'll fight for your growth, compensation, and recognition 
-- **Transparency:** You’ll know the context - even when it’s uncomfortable  
+- **Transparency:** I'll share context about priorities, constraints, and trade-offs - even the difficult parts  
 - **No surprises:** If something's off, you'll hear it before performance review time
 - **Air cover:** I’ll handle organizational noise so you can focus  
 
-What I *can’t* do: make every decision fast, shield you from all ambiguity, or guarantee every project will be meaningful. I'll try, but I'm working within constraints too.
+What I *can’t* guarantee: perfect clarity on every project, complete shielding from organizational change, or that every task will feel deeply meaningful. I'm working within constraints too.
 
 ---
 
@@ -119,10 +119,10 @@ What I *can’t* do: make every decision fast, shield you from all ambiguity, or
 
 I genuinely want it - here’s what helps:
 
-- **Specific > vague** → "Yesterday in stand-up…" beats "You don’t listen"  
-- **Timely > batched** → don’t wait for 1:1s  
-- **Private > public** → but I can handle public if needed  
-- **Impact-framed** → "When you do X, I feel Y" helps me adjust  
+- **Specific > vague** - "Yesterday in stand-up…" beats "You don’t listen"  
+- **Timely > batched** - don’t wait for 1:1s  
+- **Private > public** - but I can handle public if needed  
+- **Impact-framed** - "When you do X, I feel Y" helps me adjust  
 
 Recent feedback:  
 > "You say ‘let me think about it’ a lot - it feels like indecision."  
@@ -148,19 +148,19 @@ I'm a human, not a management bot. I'll get it wrong sometimes.
 
 ## 🌱 What I’m Working On
 
-- Delegating messier problems (I tend to take too much on myself)
+- Trusting you with the hard stuff (I tend to hoard complex problems instead of delegating them)
 - Saying no earlier (I over-commit when I'm excited)
 - Slowing down to speed up (balancing urgency with sustainability)
 
-Please call me out if you see me drifting.
+If you see me backsliding, I'll appreciate the nudge.
 
 ---
 
 ## 🏠 Outside of Work
 
-- **Family:** 2 kids 👶 🧒 4 & 6 yo - at times may need to hard stop before 5pm to pick them up from school
-- **Background:** 🇵🇱 by origin, 🇪🇸 based since 2023. I sometimes miss UK cultural references or communicate less clearly in English - tell me directly if something doesn't land right 
-- **Weekends:** Usually riding my road 🚴‍♂️ or gravel 🚵‍♂️ bike. Always up for a chat, no pressure to pretend interest  
+- **Family:** 2 kids (4 & 6 years old)-at times may need to hard stop before 5pm for school pickup
+- **Background:** Polish by origin, Barcelona-based since 2023. I sometimes miss UK cultural references or communicate less clearly in English-tell me directly if something doesn't land right
+- **Weekends:** Usually riding my road bike or hitting gravel trails. Always up for a chat about cycling, no pressure to pretend interest  
 
 Sharing this helps explain my rhythms and reminds us we’re humans first.
 
