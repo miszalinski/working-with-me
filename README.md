@@ -32,6 +32,7 @@ I optimize for three things - roughly in this order:
 4. **Engineering excellence** → quality that compounds over time  
 
 When these trade off (and they will), I’ll make the tension explicit.  
+
 **My failure mode:** under pressure, I sometimes flip this order. Please call it out if I start sacrificing health for speed.
 
 ---
@@ -41,25 +42,26 @@ When these trade off (and they will), I’ll make the tension explicit.
 ### Slack
 - I'm async-first but don't expect you to be
 - Tag me directly if you need input - I won’t see everything  
-- “👀” means *I’ve seen it; I’ll reply later*  
-- **I sometimes work odd hours** - due to family commitments or time-sensitive business needs - but **late-night messages ≠ expectation to respond**. Please disconnect outside your hours unless it’s a production incident.
-- I’ll share regular team updates with stakeholders - the more context you share, the fewer interruptions from me  
+- "👀" means *I’ve seen it; I’ll reply later*  
+- I sometimes send messages outside business hours (family schedule or urgent issues), but there's zero expectation to respond until your next working day—unless it's a production incident
+- I share regular updates with leadership and stakeholders - the more you keep me in the loop proactively, the less I need to chase you for context
 
 ### 1:1s
 - Weekly, 30–45 minutes (but if anything urgent please don't wait let's talk asap)
 - Your agenda > mine
 - We will have a shared document for notes and action items 
-- Focused on: how you’re feeling, what you’re learning, what’s blocking you  
-- Less on: status updates (I can read those)  
+- **Focused on:** how you’re feeling, what you’re learning, what’s blocking you  
+- **Less on:** status updates (I can read those)  
 
 ### Meetings
 - If I call one - expect context and goals shared upfront  
 - If I seem distracted, call it out - it usually means I'm context-switching too much and need to fix my calendar
 
 ### Feedback
-- I use [**SBIE**](https://engagedly.com/blog/importance-of-sbi-when-giving-feedback-in-workplace/) → Situation → Behavior → Impact → Expectation  
-- Direct but kind, usually in 1:1s unless time-sensitive  
-- **What I am working on:** I sometimes soften feedback too much - please ask me to be clearer if needed  
+- I use [**SBIE**](https://engagedly.com/blog/importance-of-sbi-when-giving-feedback-in-workplace/) framework → Situation → Behavior → Impact → Expectation  
+- Direct but kind, usually in 1:1s unless time-sensitive
+  
+**What I am working on:** I sometimes soften feedback too much - please ask me to be clearer if needed  
 
 ---
 
@@ -74,21 +76,21 @@ Examples:
 - Two-way → UI tweaks, feature flags, internal tooling  
 - One-way → database schemas, public APIs, compliance or architectural foundations  
 
-> “Move fast” never means skipping quality — it means streamlining safety nets.  
+> "Move fast" never means skipping quality — it means streamlining safety nets.  
 > If process slows us down unnecessarily, we fix the process.
 
 **Decision ownership**
 - Default: The person closest to the problem. You have the context, you own the outcome, you decide.
 - I step in to *stress-test*, not to take over  
 - I’ll override only for safety, compliance, or misalignment with company strategy  
-- I ask “why” a lot - it’s curiosity, not criticism  
+- I ask _"why"_ a lot - it’s curiosity, not criticism  
 
 ---
 
 ## 🤝 What I Need From You
 
 **Non-negotiables**
-- Own outcomes, not just tickets  - “feature shipped“ matters less than “conversion improved“
+- Own outcomes, not just tickets  - "feature shipped" matters less than "conversion improved"
 - Communicate blockers early - Monday beats Friday  
 - Be kind - we can disagree strongly and still respect each other  
 
@@ -113,27 +115,17 @@ What I *can’t* do: make every decision fast, shield you from all ambiguity, or
 
 ---
 
-## 🧭 How I Define Team Success
-
-We’re succeeding when:
-- We ship reliable, high-quality work that improves customer outcomes  
-- Engineers grow and feel psychologically safe  
-- Stakeholders trust our delivery and communication  
-- We’re proud of *how* we build, not just *what* we ship  
-
----
-
 ## 🪞 How to Give Me Feedback
 
 I genuinely want it - here’s what helps:
 
-- **Specific > vague** → “Yesterday in stand-up…” beats “You don’t listen”  
+- **Specific > vague** → "Yesterday in stand-up…" beats "You don’t listen"  
 - **Timely > batched** → don’t wait for 1:1s  
 - **Private > public** → but I can handle public if needed  
-- **Impact-framed** → “When you do X, I feel Y” helps me adjust  
+- **Impact-framed** → "When you do X, I feel Y" helps me adjust  
 
 Recent feedback:  
-> “You say ‘let me think about it’ a lot - it feels like indecision.”  
+> "You say ‘let me think about it’ a lot - it feels like indecision."  
 They were right - I now explain *why* I need time before deciding.
 
 ---
@@ -146,9 +138,9 @@ They were right - I now explain *why* I need time before deciding.
 - I jump to solutions before understanding (I'm anxious about delivery)
 
 **What helps**
-- Ask directly: “You seem tense - what’s going on?”  
-- Clarify: “Do you want me to listen or problem-solve?”  
-- Push back kindly: “That’s not the right priority right now.”
+- Ask directly: "You seem tense - what’s going on?"  
+- Clarify: "Do you want me to listen or problem-solve?"  
+- Push back kindly: "That’s not the right priority right now."
 
 I'm a human, not a management bot. I'll get it wrong sometimes.
 
