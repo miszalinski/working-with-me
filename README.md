@@ -2,8 +2,8 @@
 **Michal Szalinski – Engineering Manager**  
 _Last updated: December 2025_
 
-![Version](https://img.shields.io/badge/version-1.1-green)
-![Updated](https://img.shields.io/badge/updated-Nov_2025-orange)
+![Version](https://img.shields.io/badge/version-1.2-green)
+![Updated](https://img.shields.io/badge/updated-Dec_2025-orange)
 ![Role](https://img.shields.io/badge/Role-Engineering%20Manager-blue)
 
 ---
