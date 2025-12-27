@@ -1,6 +1,5 @@
 # 👋 Working With Me (v1.2)
-**Michal Szalinski – Engineering Manager**  
-_Last updated: December 2025_
+**Michal Szalinski**  
 
 ![Version](https://img.shields.io/badge/version-1.2-green)
 ![Updated](https://img.shields.io/badge/updated-Dec_2025-orange)
