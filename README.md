@@ -1,6 +1,6 @@
-# 👋 Working With Me (v1.1)
+# 👋 Working With Me (v1.2)
 **Michal Szalinski – Engineering Manager**  
-_Last updated: November 2025_
+_Last updated: December 2025_
 
 ![Version](https://img.shields.io/badge/version-1.1-green)
 ![Updated](https://img.shields.io/badge/updated-Nov_2025-orange)
@@ -15,6 +15,8 @@ If something doesn’t work for you, tell me. Let’s co-design how we work best
 ---
 
 ## 👨‍🦰 Who am I?
+
+In the 16 personalities test I am identified as - [INFP - Mediator](https://www.16personalities.com/infps-at-work) (*Introverted, Intuitive, Feeling, Prospecting*).
 
 I've spent 20+ years in tech, working across telco, banking, and logistics. I've seen different scales - startups (Uruz Labs), scale-ups (Glovo), and large companies (Goldman Sachs) - which taught me that context matters more than playbooks.  
 My technical roots are in backend engineering (mostly JVM languages). 
@@ -90,7 +92,7 @@ Examples:
 ## 🤝 What I Need From You
 
 **Non-negotiables**
-- Own outcomes, not just tickets  - "feature shipped" matters less than "conversion improved"
+- Own outcomes, not just tickets  - "conversion improved" matters more than "feature shipped"
 - Communicate blockers early - Monday beats Friday  
 - Be kind - we can disagree strongly and still respect each other  
 
