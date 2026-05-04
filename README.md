@@ -21,7 +21,7 @@
    tracks with a lot of what follows.
 
   I'm also Polish-raised 🇵🇱, which shapes some defaults that aren't obvious. On [Erin Meyer's Culture Map](https://erinmeyer.com/books/the-culture-map/),
-  Polish culture skews direct on feedback, comfortable with open disagreement, and relationship-first on trust. But I'm an INFP working in a British 
+  Polish culture skews direct on feedback, comfortable with open disagreement, and relationship-first on trust. But I'm an INFP working in a British 🇬🇧
   company - so in practice I soften more than my instinct wants to, avoid confrontation longer than I should, and then occasionally surprise people by
   being blunter than expected. If my feedback feels inconsistent in intensity, that's usually why.
 
