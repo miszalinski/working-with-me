@@ -9,7 +9,8 @@
 
   ## 👨‍🦰 Who am I?
 
-  I've spent 20+ years in tech, working across telco, banking, and logistics. I've seen different scales - startups (Uruz Labs), scale-ups (Monzo, Glovo), and
+  I've spent 20+ years in tech, working across telco, banking, and logistics. I've seen different scales - startups (Uruz Labs), scale-ups (Monzo, Glovo),
+   and
   large companies (Goldman Sachs) - which taught me that context matters more than playbooks.
   My technical roots are in backend engineering (mostly JVM languages).
 
@@ -18,6 +19,11 @@
 
   If personality frameworks are your thing: I'm an [INFP](https://www.16personalities.com/infps-at-work) - introverted, intuition-led, feeling-first. That
    tracks with a lot of what follows.
+
+  I'm also Polish-raised, which shapes some defaults that aren't obvious. On [Erin Meyer's Culture Map](https://erinmeyer.com/books/the-culture-map/),
+  Polish culture skews direct on feedback, comfortable with open disagreement, and relationship-first on trust. But I'm an INFP working in a British
+  company - so in practice I soften more than my instinct wants to, avoid confrontation longer than I should, and then occasionally surprise people by
+  being blunter than expected. If my feedback feels inconsistent in intensity, that's usually why.
 
   ---
 
@@ -168,8 +174,8 @@
   ## 🏠 Outside of Work
 
   - **Family:** 2 kids (5 & 7 years old) - at times may need to hard stop before 5pm for school pickup
-  - **Background:** Polish by origin, Barcelona-based since 2023. I sometimes miss UK cultural references or communicate less clearly in English - tell me
-   directly if something doesn't land right
+  - **Background:** Polish by origin, Barcelona-based since 2023. I default to relationship-based trust - I invest in knowing you before I fully relax
+  professionally. I sometimes miss British indirectness or cultural references - tell me directly if something doesn't land right
   - **Weekends:** Usually riding my road bike or hitting gravel trails. Always up for a chat about cycling, no pressure to pretend interest
 
   Sharing this helps explain my rhythms and reminds us we're humans first.
