@@ -20,8 +20,8 @@
   If personality frameworks are your thing: I'm an [INFP](https://www.16personalities.com/infps-at-work) - introverted, intuition-led, feeling-first. That
    tracks with a lot of what follows.
 
-  I'm also Polish-raised, which shapes some defaults that aren't obvious. On [Erin Meyer's Culture Map](https://erinmeyer.com/books/the-culture-map/),
-  Polish culture skews direct on feedback, comfortable with open disagreement, and relationship-first on trust. But I'm an INFP working in a British
+  I'm also Polish-raised 🇵🇱, which shapes some defaults that aren't obvious. On [Erin Meyer's Culture Map](https://erinmeyer.com/books/the-culture-map/),
+  Polish culture skews direct on feedback, comfortable with open disagreement, and relationship-first on trust. But I'm an INFP working in a British 
   company - so in practice I soften more than my instinct wants to, avoid confrontation longer than I should, and then occasionally surprise people by
   being blunter than expected. If my feedback feels inconsistent in intensity, that's usually why.
 
@@ -34,8 +34,6 @@
   1. **Team health** - sustainable pace, psychological safety, and continuous growth
   2. **Impact** - both user outcomes and business outcomes (the metrics we actually track)
   3. **Engineering excellence** - quality that compounds over time
-
-  When these trade off (and they will), I'll make the tension explicit.
 
   **My failure mode:** under pressure, I sometimes flip this order. Please call it out if I start sacrificing health for speed.
 
@@ -70,7 +68,7 @@
   - If I seem distracted, call it out - it usually means I'm context-switching too much and need to fix my calendar
 
   ### Feedback
-  - I use [**SBIE**](https://engagedly.com/blog/importance-of-sbi-when-giving-feedback-in-workplace/) framework - Situation, Behavior, Impact, Expectation
+  - I use the SBIE framework - Situation, Behavior, Impact, Expectation
 
   - Direct but kind, usually in 1:1s unless time-sensitive
 
@@ -85,12 +83,7 @@
   - **Two-way doors** (reversible): move fast, test, learn, iterate
   - **One-way doors** (hard to reverse): slow down, gather input, think harder
 
-  Examples:
-  - Two-way - UI tweaks, feature flags, internal tooling
-  - One-way - database schemas, public APIs, compliance or architectural foundations
-
   > "Move fast" never means skipping quality - it means streamlining safety nets.
-  > If process slows us down unnecessarily, we fix the process.
 
   **Decision ownership**
   - Default: The person closest to the problem. You have the context, you own the outcome, you decide.
@@ -140,10 +133,6 @@
   - **Impact-framed** - "When you do X, I feel Y" helps me adjust
   - If I've gone quiet on *you*, call it out. I hold myself to the same standard.
 
-  Recent feedback:
-  > "You say 'let me think about it' a lot - it feels like indecision."
-  They were right - I now explain *why* I need time before deciding.
-
   ---
 
   ## ❤️ When I'm Not at My Best
@@ -157,8 +146,6 @@
   - Ask directly: "You seem tense - what's going on?"
   - Clarify: "Do you want me to listen or problem-solve?"
   - Push back kindly: "That's not the right priority right now."
-
-  I'm a human, not a management bot. I'll get it wrong sometimes.
 
   ---
 
@@ -179,8 +166,3 @@
   - **Weekends:** Usually riding my road bike or hitting gravel trails. Always up for a chat about cycling, no pressure to pretend interest
 
   Sharing this helps explain my rhythms and reminds us we're humans first.
-
-  ---
-
-  ### Let's build a team that balances <ins>craft</ins> and <ins>care</ins> - something we're proud of, not just for *what* we deliver, but *how* we do
-  it.
