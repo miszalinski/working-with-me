@@ -1,4 +1,6 @@
-**Michal Szalinski** - Engineering Manager | Last updated: May 2026
+**Michal Szalinski** - Engineering Manager
+
+*Last updated: May 2026*
 
   ---
 
